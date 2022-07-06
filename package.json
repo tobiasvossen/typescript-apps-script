@@ -1,0 +1,25 @@
+{
+  "name": "typescript-apps-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiasvossen/typescript-apps-script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobiasvossen/typescript-apps-script/issues"
+  },
+  "homepage": "https://github.com/tobiasvossen/typescript-apps-script#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.50",
+    "typescript": "^4.7.4"
+  }
+}
