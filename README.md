@@ -1,6 +1,6 @@
 # Apps Script
 
-A template repository to develop [Google Apps Script](https://developers.google.com/apps-script) with Typescript.
+A template repository to develop [Google Apps Script](https://developers.google.com/apps-script) with Typescript including [ESLint](https://eslint.org/).
 
 ## Getting started
 
