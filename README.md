@@ -1,6 +1,6 @@
 # Apps Script
 
-A template repository to develop [Google Apps Script](https://developers.google.com/apps-script) with Typescript including [ESLint](https://eslint.org/) & [Prettier](https://prettier.io/).
+A template repository to develop [Google Apps Script](https://developers.google.com/apps-script) with Typescript including [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) & [Husky](https://typicode.github.io/husky/#/).
 
 ## Getting started
 
